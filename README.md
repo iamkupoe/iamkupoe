@@ -1,16 +1,51 @@
-### Hi there 👋
+                                           Hi there 👋, I'm Samuel Kupoe (iamkupoe)
 
-<!--
-**iamkupoe/iamkupoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                                                                                                                               
+  Connect with me
+  
+ <a href="https://github.com/iamkupoe/iamkupoe/" className="btn btn-outline-danger">
+ Github
+ </a>
+ 
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/samuel-kupoe-39339558/" className="btn btn-outline-danger">
+ LinkedIn
+ </a>
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <a href="https://twitter.com/iamkupoe" className="btn btn-outline-danger">
+ Twitter
+ </a>
+
+<hr/>
+
+                                                       Current status 
+<hr/>
+
+                        Skills : React, React Native (Expo), Redux, JavaScript, Firebase, HTML, CSS, Sass],
+    
+                        Learning: React Advanced, React Native, MongoDB, NodeJS, ExpressJS, Solidity],
+    
+                        Interests: Open Source Contribution, Research
+ 
+<hr/>
+
+                                                       Constant skills:
+<hr/>
+
+                                           Languages :  JavaScript, HTML, CSS
+  
+                                           Ide:  Vs Code, Sublime,
+
+                                           Libraries :  NextJs,
+
+                                           Frameworks:  React Js, Node Js, Bootstrap, React-Bootstrap, MaterialUI
+
+                                           Databases : Firebase, (Firestore), MongoDB
+
+                                           Platforms : Firebase, Github Pages, Netlify, Vercel
+
+
+<hr/>
+
+  
