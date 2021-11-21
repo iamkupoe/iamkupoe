@@ -25,31 +25,31 @@
 
 <hr/>
 
-                                                       Current status 
+                   Current status 
 <hr/>
 
-                        Skills : React, React Native (Expo), Redux, JavaScript, Firebase, HTML, CSS, Sass],
+ Skills : React, React Native (Expo), Redux, JavaScript, Firebase, HTML, CSS, Sass],
     
-                        Learning: React Advanced, React Native, MongoDB, NodeJS, ExpressJS, Solidity],
-    
-                        Interests: Open Source Contribution, Research
+Learning: React Advanced, React Native, MongoDB, NodeJS, ExpressJS, Solidity],
+   
+Interests: Open Source Contribution, Research
  
 <hr/>
 
-                                                       Constant skills:
+                  Constant skills:
 <hr/>
 
-                                           Languages :  JavaScript, HTML, CSS
+          Languages :  JavaScript, HTML, CSS
   
-                                           Ide:  Vs Code, Sublime,
+          Ide:  Vs Code, Sublime,
 
-                                           Libraries :  NextJs,
+          Libraries :  NextJs,
 
-                                           Frameworks:  React Js, Node Js, Bootstrap, React-Bootstrap, MaterialUI
+          Frameworks:  React Js, Node Js, Bootstrap, React-Bootstrap, MaterialUI
 
-                                           Databases : Firebase, (Firestore), MongoDB
+          Databases : Firebase, (Firestore), MongoDB
 
-                                           Platforms : Firebase, Github Pages, Netlify, Vercel
+          Platforms : Firebase, Github Pages, Netlify, Vercel
 
 
 <hr/>
