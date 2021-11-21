@@ -4,18 +4,24 @@
   Connect with me
   
  <a href="https://github.com/iamkupoe/iamkupoe/" className="btn btn-outline-danger">
- Github
+ Github,
  </a>
  
 
 <a href="https://www.linkedin.com/in/samuel-kupoe-39339558/" className="btn btn-outline-danger">
- LinkedIn
+ LinkedIn,
  </a>
  
 
  <a href="https://twitter.com/iamkupoe" className="btn btn-outline-danger">
- Twitter
+ Twitter,
  </a>
+ 
+ <a href="https://wa.me/+233546835848" target="_blank">
+
+<Whatsapp color="green" size={50} /> 
+  WhatsApp,
+</a>
 
 <hr/>
 
